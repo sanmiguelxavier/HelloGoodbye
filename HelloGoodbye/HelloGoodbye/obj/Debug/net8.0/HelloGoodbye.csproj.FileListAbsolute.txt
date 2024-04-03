@@ -1,0 +1,14 @@
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net8.0\HelloGoodbye.exe
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net8.0\HelloGoodbye.deps.json
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net8.0\HelloGoodbye.runtimeconfig.json
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net8.0\HelloGoodbye.dll
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\bin\Debug\net8.0\HelloGoodbye.pdb
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net8.0\HelloGoodbye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net8.0\HelloGoodbye.AssemblyInfoInputs.cache
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net8.0\HelloGoodbye.AssemblyInfo.cs
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net8.0\HelloGoodbye.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net8.0\HelloGoodbye.dll
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net8.0\refint\HelloGoodbye.dll
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net8.0\HelloGoodbye.pdb
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net8.0\HelloGoodbye.genruntimeconfig.cache
+C:\Users\MY PC\source\repos\HelloGoodbye\HelloGoodbye\obj\Debug\net8.0\ref\HelloGoodbye.dll

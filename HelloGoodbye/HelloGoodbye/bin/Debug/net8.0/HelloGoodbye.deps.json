@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HelloGoodbye/1.0.0": {
+        "runtime": {
+          "HelloGoodbye.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloGoodbye/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
